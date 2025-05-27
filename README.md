@@ -1,4 +1,4 @@
-# Amazon_products
+# Amazon_products_Analysis
 The Amazon Products Data Analysis project aims to explore the pricing, discount patterns, and
 customer engagement trends of Amazon products. E-commerce platforms like Amazon contain vast
 amounts of data on product pricing, customer feedback, and sales trends. Businesses and analysts
